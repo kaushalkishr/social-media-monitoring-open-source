@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 gem 'rails', '3.2.12'
-
+gem 'social_media_monitoring'
 group :assets do
   gem 'sass-rails'
   gem 'therubyracer', :require => 'v8'
